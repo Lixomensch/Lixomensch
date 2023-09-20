@@ -1,7 +1,11 @@
 
-### Olá, Eu sou João Pedro
-Atualmente tenho 21 anos. Sou um entusiasta da tecnologia e estou atualmente cursando Engenharia de Computação. Esta é minha página no GitHub, onde compartilho projetos, códigos e explorando o mundo da computação. Desde cedo, desenvolvi um forte interesse por inovações tecnológicas e estou sempre em busca de aprendizado e crescimento na área da computação. Aqui você encontrará uma variedade de projetos, desde pequenos scripts até aplicativos mais complexos, que refletem minha paixão por desenvolver soluções criativas e eficientes. Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma pergunta ou colaboração em mente. Vamos construir o futuro da tecnologia juntos! 🚀
+<h1 align="center">Olá, Eu sou João Pedro 👋</h1>
+<h3 align="center">Bem vindo ao meu GitHub</h3>
 
+![Lixomensch card name](https://cardivo.vercel.app/api?name=[João+Pedro]&description=[description]&image=[image_url])
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Iniciando+servidor+%C3%A9lfico...;Minerando+cristais+de+CPU...;Entrando+no+labirinto+de+IFs..;Descifrando++runas+assemblycas...;Conquista+desbloqueada%3A+Bug+Slayer" alt="Typing SVG" /></a>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaopedro.eng18@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Lixomensch/)
