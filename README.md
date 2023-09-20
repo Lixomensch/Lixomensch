@@ -20,4 +20,4 @@ Atualmente tenho 21 anos. Sou um entusiasta da tecnologia e estou atualmente cur
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Css](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![snake gif](https://github.com/Lixomensch/Lixomensch/blob/output/github-contribution-grid-snake.gif)
+<p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/ariafatah0711/ariafatah0711/output/github-contribution-grid-snake-dark.svg" width="1000" />
