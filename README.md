@@ -24,8 +24,9 @@
 
   
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lixomensch&show_icons=true&theme=tokyonight" alt="Lixomensch GitHub Stats" style="width: auto; height: 250px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lixomensch&layout=donut" alt="Top Langs" style="width: auto; height: 250px;">  
+    <img src="https://github-readme-stats.vercel.app/api?username=Lixomensch&show_icons=true&theme=tokyonight" alt="Lixomensch GitHub Stats" style="width: auto; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lixomensch&layout=donut" alt="Top Langs" style="width: auto; height: 200px;">
+</p>
   
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
