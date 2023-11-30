@@ -2,7 +2,7 @@
 <h1 align="center">Olá, Eu sou João Pedro 👋</h1>
 <h3 align="center">Bem vindo ao meu GitHub</h3>
 
-![Lixomensch card name](https://cardivo.vercel.app/api?name=João%20Pedro&description=Tenho%2021%20anos,%20curso%20Engenharia%20de%20Computação.%20Aqui%20você%20encontrará%20uma%20variedade%20de%20projetos,%20desde%20pequenos%20scripts%20até%20aplicativos%20mais%20complexos,%20que%20refletem%20minha%20paixão%20por%20desenvolver%20soluções%20criativas%20e%20eficientes.%20prazer%20em%20conhecer%20você%20!%20%F0%9F%9A%80&image=https://avatars.githubusercontent.com/u/104952737?v=4&backgroundColor=%23ecf0f1)  
+![Lixomensch card name](https://cardivo.vercel.app/api?name=João%20Pedro&description=Tenho%2021%20anos,%20curso%20Engenharia%20de%20Computação.%20Aqui%20você%20encontrará%20uma%20variedade%20de%20projetos,%20desde%20pequenos%20scripts%20até%20aplicativos%20mais%20complexos,%20que%20refletem%20minha%20paixão%20por%20desenvolver%20soluções%20criativas%20e%20eficientes.%20Prazer%20em%20conhecer%20você%20!%20%F0%9F%9A%80&image=https://avatars.githubusercontent.com/u/104952737?v=4&backgroundColor=%23ecf0f1)  
 
 
 <p align="center">
